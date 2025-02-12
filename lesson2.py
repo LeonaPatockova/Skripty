@@ -1,0 +1,1 @@
+print("ukulele".find("l"))
